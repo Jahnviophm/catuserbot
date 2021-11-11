@@ -59,20 +59,20 @@ def main_menu():
         (Button.inline("🎼 Info", data="check"),),
         (
             Button.inline(f"⚜️👑⚜️ Miss ({len(GRP_INFO['admin'])})", data="admin_menu"),
-            Button.inline(f"💫 Classy ({len(GRP_INFO['bot'])})", data="bot_menu"),
+            Button.inline(f"💫💫 Classy ({len(GRP_INFO['bot'])})", data="bot_menu"),
         ),
         (
-            Button.inline(f"✨ Attractive ({len(GRP_INFO['fun'])})", data="fun_menu"),
-            Button.inline(f"🎶🎼♦️ Queen ({len(GRP_INFO['misc'])})", data="misc_menu"),
+            Button.inline(f"✨🌈✨ Attractive ({len(GRP_INFO['fun'])})", data="fun_menu"),
+            Button.inline(f"⚕️♦️⚕️ Queen ({len(GRP_INFO['misc'])})", data="misc_menu"),
         ),
         (
-            Button.inline(f"♦️♥️♦️ Attitude ({len(GRP_INFO['tools'])})", data="tools_menu"),
-            Button.inline(f"💱 Jahnvi Utils ({len(GRP_INFO['utils'])})", data="utils_menu"),
+            Button.inline(f"♦️♥️♦️ classy Attitude ({len(GRP_INFO['tools'])})", data="tools_menu"),
+            Button.inline(f"⚔️💌⚔️ Jahnvi Utils ({len(GRP_INFO['utils'])})", data="utils_menu"),
         ),
         (
-            Button.inline(f"➕〽️ Extra ({len(GRP_INFO['extra'])})", data="extra_menu"),
+            Button.inline(f"💎🎰〽️ Extra ({len(GRP_INFO['extra'])})", data="extra_menu"),
             Button.inline(
-                f"♨️🎓♨️ Useless ({len(GRP_INFO['useless'])})", data="useless_menu"
+                f"♨️🌀♨️ sanskar ({len(GRP_INFO['useless'])})", data="useless_menu"
             ),
         ),
         (Button.inline("🔒 Close Menu", data="close"),),
