@@ -62,8 +62,8 @@ def main_menu():
             Button.inline(f"💫💫★Ƥri‌ภc‌e‌ss★𝄟 ({len(GRP_INFO['bot'])})", data="bot_menu"),
         ),
         (
-            Button.inline(f"✨🌈✨ Attractive ({len(GRP_INFO['fun'])})", data="fun_menu"),
-            Button.inline(f"⚕️♦️⚕️ Queen ({len(GRP_INFO['misc'])})", data="misc_menu"),
+            Button.inline(f"✨🌈✨𝄞◄❱ ⃟ ⃟❤️E̢̢̻ͮͧͦ͋͞͡G̯̯̩̙͆ͣ͟O̷̴ ({len(GRP_INFO['fun'])})", data="fun_menu"),
+            Button.inline(f"⚕️♦️⚕️𒆜Ѧ††ґѦ¢†їṽ℮𒆜 ({len(GRP_INFO['misc'])})", data="misc_menu"),
         ),
         (
             Button.inline(f"♦️♥️♦️✮𝄟≛⃝ ﹩℮∂𓆩ℓїƒ℮𓆪ꪾ𝄟 ({len(GRP_INFO['tools'])})", data="tools_menu"),
@@ -72,7 +72,7 @@ def main_menu():
         (
             Button.inline(f"🌹⚕️🌹𝄟≛⃝𓆩ÅƬƬɨƬᙈďΞ𝄟≛ ({len(GRP_INFO['extra'])})", data="extra_menu"),
             Button.inline(
-                f"♨️🌀♨️ sanskar ({len(GRP_INFO['useless'])})", data="useless_menu"
+                f"♨️🌀♨️★₰₳ηṧќαℜ ({len(GRP_INFO['useless'])})", data="useless_menu"
             ),
         ),
         (Button.inline("🔒 Close Menu", data="close"),),
