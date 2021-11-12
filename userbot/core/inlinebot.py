@@ -58,19 +58,19 @@ def main_menu():
     buttons = [
         (Button.inline("🎼 Info", data="check"),),
         (
-            Button.inline(f"⚜️👑⚜️ Miss ({len(GRP_INFO['admin'])})", data="admin_menu"),
-            Button.inline(f"💫💫 Classy ({len(GRP_INFO['bot'])})", data="bot_menu"),
+            Button.inline(f"⚜️👑⚜️𝄟≛⃝℃ŁÅŞŞŸ ({len(GRP_INFO['admin'])})", data="admin_menu"),
+            Button.inline(f"💫💫★Ƥri‌ภc‌e‌ss★𝄟 ({len(GRP_INFO['bot'])})", data="bot_menu"),
         ),
         (
             Button.inline(f"✨🌈✨ Attractive ({len(GRP_INFO['fun'])})", data="fun_menu"),
             Button.inline(f"⚕️♦️⚕️ Queen ({len(GRP_INFO['misc'])})", data="misc_menu"),
         ),
         (
-            Button.inline(f"♦️♥️♦️ classy Attitude ({len(GRP_INFO['tools'])})", data="tools_menu"),
-            Button.inline(f"⚔️💌⚔️ Jahnvi Utils ({len(GRP_INFO['utils'])})", data="utils_menu"),
+            Button.inline(f"♦️♥️♦️✮𝄟≛⃝ ﹩℮∂𓆩ℓїƒ℮𓆪ꪾ𝄟 ({len(GRP_INFO['tools'])})", data="tools_menu"),
+            Button.inline(f"⚔️💌⚔️┊✮𝄟≛⃝℃ŁÅŞŞŸ𓆩ℓℴ℣є𝄟≛  ({len(GRP_INFO['utils'])})", data="utils_menu"),
         ),
         (
-            Button.inline(f"💎🎰〽️ Extra ({len(GRP_INFO['extra'])})", data="extra_menu"),
+            Button.inline(f"🌹⚕️🌹𝄟≛⃝𓆩ÅƬƬɨƬᙈďΞ𝄟≛ ({len(GRP_INFO['extra'])})", data="extra_menu"),
             Button.inline(
                 f"♨️🌀♨️ sanskar ({len(GRP_INFO['useless'])})", data="useless_menu"
             ),
@@ -185,7 +185,7 @@ def paginate_help(
                     data=f"{prefix}_prev({modulo_page})_command_{category_plugins}_{category_pgno}",
                 ),
                 Button.inline(
-                    "⬅️ Back ",
+                    "❤️ Back ",
                     data=f"back_plugin_{category_plugins}_{category_pgno}",
                 ),
                 Button.inline(
