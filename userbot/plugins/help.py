@@ -20,6 +20,7 @@ hemojis = {
     "utils": "🗂",
     "extra": "➕",
     "useless": "⚰️",
+    "queen": "✨",
 }
 
 
