@@ -72,10 +72,11 @@ def main_menu():
         (
             Button.inline(f"🌹⚕️🌹𝄟≛⃝𓆩ÅƬƬɨƬᙈďΞ𝄟≛ ({len(GRP_INFO['extra'])})", data="extra_menu"),
             Button.inline(
-                f"♨️🌀♨️★⎳𝓸𝓿𝓮❥❤️☆࿐ ({len(GRP_INFO['useless'])})", data="useless_menu"
-            ),
+                f"♨️🌀♨️★⎳𝓸𝓿𝓮❥❤️☆࿐ ({len(GRP_INFO['useless'])})", data="useless_menu"),
         ),
-        (Button.inline("🔒 Close Menu", data="close"),),
+        (
+            Button.inline(f"𝄟✮͢ＩＮＳ♥️({len(GRP_INFO['queen'])})", data="queen_menu"),
+            Button.inline("🔒 Close Menu", data="close"),),
     ]
 
     return text, buttons
