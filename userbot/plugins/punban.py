@@ -18,7 +18,7 @@ from . import catub, useless
 API = useless.API
 horny = useless.nsfw(useless.pawn)
 
-plugin_category = "useless"
+plugin_category = "hlaf"
 
 
 @catub.cat_cmd(
