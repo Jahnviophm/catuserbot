@@ -76,6 +76,9 @@ def main_menu():
         ),
         (
             Button.inline(f"𝄟✮͢ＩＮＳ♥️({len(GRP_INFO['queen'])})", data="queen_menu"),
+            Button.inline(➤⃟𒍬 ̶ ᷝ ̶ᷟ✰͢卄єΛv͢͢͢єή ̶͟͞͞͞❰༒✯⃟H͢͢͢α†є℟ Ǥɨ℞Ɫ༎꯭❰(GRP_INFO['hlaf'])})", data="hlaf_menu"),
+        ),
+        (
             Button.inline("🔒 Close Menu", data="close"),),
     ]
 
