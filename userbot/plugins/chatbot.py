@@ -20,13 +20,27 @@ from ..sql_helper.globals import gvarstatus
 plugin_category = "fun"
 
 tired_response = [
-    "I am little tired, Please give me some rest",
-    "Who are you to ask me questions Continuously",
-    "Leave me alone for some times",
-    "Time to Sleep, I will get back to you soon",
-    "I have a job to do, Come back later",
-    "I need to rest, leave me alone for some times",
-    "I am not feeling well, Please Come back later",
+      "༺☬YourNameᯥ👑࿐",
+
+    "🥰Listen My Paglu👸",
+
+    "😄Jaisa Tu Sochta Hai 🤔",
+
+    "😏Vaisi Me Hu Nahi❌",
+
+    "💜Jaisi Me Hu😌",
+
+    "😌Vaisa Tu Soch Bhi Nahi skta😎",
+
+    "⏤‌❥‌𝄟♥⃝•𝑄𝑢𝑒𝑒𝑛ꨄ︎•❥‌★━━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━❤️❥❥═══jahnvi══ﮩ٨ـﮩﮩ٨ـ ❤️ﮩ",
+
+] hu
+
+
+ 
+
+
+
 ]
 
 
