@@ -26,7 +26,7 @@ plugin_category = "utils"
 
 @catub.cat_cmd(
     pattern="miss$",
-    command=("miss", plugin_category),
+    command=("jahnvi", plugin_category),
     info={
         "header": "To check bot's alive status",
         "options": "To show media in this cmd you need to set ALIVE_PIC with media link, get this by replying the media by .tgm",
